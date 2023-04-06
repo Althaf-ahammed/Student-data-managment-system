@@ -1,0 +1,12 @@
+#edit{
+    color: blue;
+}
+#delete{
+    color: red;
+}
+.deleted{
+    display: none;
+}
+#addButton{
+    margin-left: 50%;
+}

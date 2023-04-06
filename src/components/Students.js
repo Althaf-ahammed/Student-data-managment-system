@@ -1,0 +1,2 @@
+const Students =   [{id:1,name:'Bob',age:12,class:5,contactNumber:5412369854},{id:2,name:'john',age:13,class:6,contactNumber:1425639874},{id:3,name:'victor',age:15,class:10,contactNumber:93214526874},{id:4,name:'sara',age:12,class:6,contactNumber:4521365874}]
+export default Students 
